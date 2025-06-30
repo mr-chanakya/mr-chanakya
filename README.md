@@ -20,3 +20,4 @@ Remove unused imports
 Add test cases
 Fix bug in feature X
 Clean up codebase
+Remove unused imports
